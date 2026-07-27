@@ -1524,6 +1524,16 @@ explicit; the dataset-composition-checked cross-model cascade
 comparison; and the directionally-replicated context-ablation
 refutation.
 
+Beyond these four specific findings, we want to name the difficulty-
+dissociation design itself as a reusable pattern independent of what it
+found here: before trusting any claimed hidden-state "early-warning"
+or "risk" signal for a multi-step process, restrict to the subpopulation
+where the earliest available oracle outcome is already fixed, and check
+whether the signal survives. A signal that disappears under this
+restriction was reading the oracle variable, not something new. This
+pattern generalizes to any pipeline with a step-wise correctness oracle,
+not just self-refinement.
+
 ## References
 
 Added, final-audit pass: this paper previously named several works
