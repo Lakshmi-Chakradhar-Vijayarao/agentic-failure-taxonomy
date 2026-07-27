@@ -1,0 +1,23 @@
+{
+  "detection": {
+    "n": 1200,
+    "wrong_s3_rate": 0.5341666666666667,
+    "late_auroc": 0.5188,
+    "late_std": 0.0351,
+    "early_3feat_auroc": 0.5273,
+    "early_3feat_std": 0.0213,
+    "early_5feat_auroc": 0.5127,
+    "early_5feat_std": 0.0129,
+    "output_baseline_auroc": 0.9056,
+    "output_baseline_std": 0.0221
+  },
+  "context_ablation": {
+    "n_standard": 120,
+    "n_ablation": 120,
+    "amplified_standard_pct": 1.67,
+    "amplified_standard_n": 2,
+    "amplified_noctx_pct": 5.83,
+    "amplified_noctx_n": 7,
+    "drop_pp": -4.17
+  }
+}

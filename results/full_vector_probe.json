@@ -1,0 +1,48 @@
+{
+  "qwen": {
+    "model": "qwen",
+    "n": 2500,
+    "wrong_s3_rate": 0.7048,
+    "results": {
+      "h_s1_full": {
+        "auroc": 0.6116,
+        "std": 0.0206
+      },
+      "h_s2_full": {
+        "auroc": 0.5916,
+        "std": 0.021
+      },
+      "concat_s1_s2": {
+        "auroc": 0.6169,
+        "std": 0.0321
+      },
+      "diff_s2_minus_s1": {
+        "auroc": 0.5488,
+        "std": 0.0186
+      }
+    }
+  },
+  "mistral": {
+    "model": "mistral",
+    "n": 1200,
+    "wrong_s3_rate": 0.5341666666666667,
+    "results": {
+      "h_s1_full": {
+        "auroc": 0.5728,
+        "std": 0.0161
+      },
+      "h_s2_full": {
+        "auroc": 0.5326,
+        "std": 0.0143
+      },
+      "concat_s1_s2": {
+        "auroc": 0.566,
+        "std": 0.0282
+      },
+      "diff_s2_minus_s1": {
+        "auroc": 0.5587,
+        "std": 0.0118
+      }
+    }
+  }
+}

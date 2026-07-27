@@ -1,0 +1,86 @@
+{
+  "qwen_step1": {
+    "n_sampled": 150,
+    "n_scored": 150,
+    "n_ambiguous": 0,
+    "agreement": 0.76,
+    "cohen_kappa": 0.44329896907216504,
+    "confusion_matrix": [
+      [
+        85,
+        21
+      ],
+      [
+        15,
+        29
+      ]
+    ],
+    "surface_correct_judge_hallucinated": 15,
+    "surface_hallucinated_judge_correct": 21,
+    "surface_hall_rate": 0.7066666666666667,
+    "judge_hall_rate": 0.6666666666666667
+  },
+  "qwen_step2": {
+    "n_sampled": 150,
+    "n_scored": 150,
+    "n_ambiguous": 0,
+    "agreement": 0.6866666666666666,
+    "cohen_kappa": 0.32328661931272795,
+    "confusion_matrix": [
+      [
+        74,
+        33
+      ],
+      [
+        14,
+        29
+      ]
+    ],
+    "surface_correct_judge_hallucinated": 14,
+    "surface_hallucinated_judge_correct": 33,
+    "surface_hall_rate": 0.7133333333333334,
+    "judge_hall_rate": 0.5866666666666667
+  },
+  "mistral_step1": {
+    "n_sampled": 100,
+    "n_scored": 100,
+    "n_ambiguous": 0,
+    "agreement": 0.68,
+    "cohen_kappa": 0.35064935064935066,
+    "confusion_matrix": [
+      [
+        40,
+        16
+      ],
+      [
+        16,
+        28
+      ]
+    ],
+    "surface_correct_judge_hallucinated": 16,
+    "surface_hallucinated_judge_correct": 16,
+    "surface_hall_rate": 0.56,
+    "judge_hall_rate": 0.56
+  },
+  "mistral_step2": {
+    "n_sampled": 100,
+    "n_scored": 100,
+    "n_ambiguous": 0,
+    "agreement": 0.67,
+    "cohen_kappa": 0.3049705139005897,
+    "confusion_matrix": [
+      [
+        46,
+        11
+      ],
+      [
+        22,
+        21
+      ]
+    ],
+    "surface_correct_judge_hallucinated": 22,
+    "surface_hallucinated_judge_correct": 11,
+    "surface_hall_rate": 0.5700000000000001,
+    "judge_hall_rate": 0.6799999999999999
+  }
+}

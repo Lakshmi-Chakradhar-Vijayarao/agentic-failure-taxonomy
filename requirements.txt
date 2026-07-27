@@ -1,0 +1,16 @@
+# Added post-final-audit: no dependency version file existed for this
+# project despite results depending on specific library versions.
+# Versions below are what was actually used to produce this paper's
+# results (local Apple Silicon runs, verified via `import <pkg>;
+# print(pkg.__version__)`); Kaggle-only runs additionally installed
+# rouge-score and gptqmodel at runtime inside the script itself (no
+# separate local install needed for those two).
+numpy==2.4.3
+scipy==1.15.1
+scikit-learn==1.6.1
+torch==2.11.0
+transformers==5.2.0
+datasets==4.8.5
+tqdm==4.67.3
+rouge-score  # installed at runtime on Kaggle; no local pin verified
+gptqmodel    # installed at runtime on Kaggle (code/08 / Kaggle judge kernels); no local pin verified

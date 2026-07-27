@@ -1,0 +1,24 @@
+{
+  "judge_model": "TheBloke/Mistral-7B-Instruct-v0.2-AWQ",
+  "judged_arm": "qwen",
+  "note": "independent judge (different model family than the Qwen generator), replacing the self-judged Qwen result",
+  "n_sampled": 150,
+  "n_scored": 146,
+  "n_ambiguous": 4,
+  "agreement": 0.5136986301369864,
+  "cohen_kappa": 0.1792557403008711,
+  "confusion_matrix": [
+    [
+      35,
+      67
+    ],
+    [
+      4,
+      40
+    ]
+  ],
+  "surface_correct_judge_hallucinated": 4,
+  "surface_hallucinated_judge_correct": 67,
+  "surface_hall_rate": 0.6986301369863014,
+  "judge_hall_rate": 0.26712328767123283
+}

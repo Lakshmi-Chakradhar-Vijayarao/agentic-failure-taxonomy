@@ -1,0 +1,44 @@
+{
+  "qwen": {
+    "n_sampled": 150,
+    "n_scored": 150,
+    "n_ambiguous": 0,
+    "agreement": 0.7733333333333333,
+    "cohen_kappa": 0.46741854636591484,
+    "confusion_matrix": [
+      [
+        87,
+        19
+      ],
+      [
+        15,
+        29
+      ]
+    ],
+    "surface_correct_judge_hallucinated": 15,
+    "surface_hallucinated_judge_correct": 19,
+    "surface_hall_rate": 0.7066666666666667,
+    "judge_hall_rate": 0.6799999999999999
+  },
+  "mistral": {
+    "n_sampled": 100,
+    "n_scored": 100,
+    "n_ambiguous": 0,
+    "agreement": 0.57,
+    "cohen_kappa": 0.12316476345840133,
+    "confusion_matrix": [
+      [
+        38,
+        15
+      ],
+      [
+        28,
+        19
+      ]
+    ],
+    "surface_correct_judge_hallucinated": 28,
+    "surface_hallucinated_judge_correct": 15,
+    "surface_hall_rate": 0.53,
+    "judge_hall_rate": 0.6599999999999999
+  }
+}

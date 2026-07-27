@@ -1,0 +1,26 @@
+{
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "target_layer": 32,
+  "n_train_direction_fit": 676,
+  "n_test": 50,
+  "results_per_alpha": [
+    {
+      "alpha": 15.0,
+      "n_valid": 50,
+      "found_correct_rate": 0.82,
+      "random_correct_rate": 0.88,
+      "mcnemar_b_found_only": 0,
+      "mcnemar_c_random_only": 3,
+      "mcnemar_p": 0.25
+    },
+    {
+      "alpha": 30.0,
+      "n_valid": 50,
+      "found_correct_rate": 0.92,
+      "random_correct_rate": 0.88,
+      "mcnemar_b_found_only": 3,
+      "mcnemar_c_random_only": 1,
+      "mcnemar_p": 0.625
+    }
+  ]
+}

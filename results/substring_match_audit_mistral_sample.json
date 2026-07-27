@@ -1,0 +1,352 @@
+{
+  "pool_size": 165,
+  "nq_total": 383,
+  "sample": [
+    {
+      "id": 996,
+      "question": "who rebuilt the walls of jerusalem in the bible",
+      "generation": "The walls of Jerusalem were rebuilt by Nehemiah in the Bible around 445 BCE.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Nehemiah"
+        ]
+      ]
+    },
+    {
+      "id": 902,
+      "question": "who does seth curry's brother play for",
+      "generation": "Seth Curry plays for the Philadelphia 76ers in the NBA.\n\nSeth Curry is a professional basketball player who has played for several teams in the NBA, including the Dallas Mavericks, Portland Trail Blazers, and the Philadelphia 76ers. He is the younger brother of Stephen Curry, who plays for the Golden State Warriors. As of the current",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Golden State Warriors"
+        ]
+      ]
+    },
+    {
+      "id": 1040,
+      "question": "when did game of thrones season 7 start",
+      "generation": "Game of Thrones Season 7 started on July 16, 2017.\n\nGame of Thrones is a popular American fantasy drama television series that premiered on HBO in 2011. The series is based on the \"A Song of Ice and Fire\" novels by George R. R. Martin. The seventh season of the series premiered",
+      "matched": [
+        [
+          "SUBSTRING",
+          "July 16, 2017"
+        ]
+      ]
+    },
+    {
+      "id": 849,
+      "question": "who plays henley in now you see me",
+      "generation": "Isla Fisher plays Henley in Now You See Me.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Isla Fisher"
+        ]
+      ]
+    },
+    {
+      "id": 857,
+      "question": "which group of organisms is most commonly responsible for red tides",
+      "generation": "Dinoflagellates are the most commonly responsible organisms for red tides.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "dinoflagellates"
+        ]
+      ]
+    },
+    {
+      "id": 1124,
+      "question": "who's the woman that played wonder woman",
+      "generation": "Gal Gadot played Wonder Woman in the DC Extended Universe films, starting with \"Batman v Superman: Dawn of Justice\" in 2016. Prior to that, Lynda Carter portrayed the character in the television series \"Wonder Woman\" from 1975 to 1979.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Gal Gadot"
+        ]
+      ]
+    },
+    {
+      "id": 872,
+      "question": "who signed the declaration of independence from maryland",
+      "generation": "Charles Carroll of Carrollton was the only delegate from Maryland to sign the Declaration of Independence. He was a Roman Catholic, a wealthy landowner, and a prominent member of the Maryland gentry. Carroll was a strong supporter of the American Revolution and played a significant role in the political and social life of Maryland. He was also a member of the Continental Congress and served",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Charles Carroll"
+        ]
+      ]
+    },
+    {
+      "id": 1021,
+      "question": "when did the first episode of riverdale come out",
+      "generation": "The first episode of Riverdale, titled \"Riverdale,\" premiered on January 26, 2017. It was aired on The CW network. The show is based on the characters of Archie Comics. The series is set in the present day and follows the lives of Archie Andrews, Jughead Jones, Betty Cooper, and Veronica",
+      "matched": [
+        [
+          "SUBSTRING",
+          "January 26, 2017"
+        ]
+      ]
+    },
+    {
+      "id": 1144,
+      "question": "actor that played gimli in lord of the rings",
+      "generation": "John Rhys-Davies played Gimli in The Lord of the Rings film trilogy. He is a Welsh actor known for his roles in Raiders of the Lost Ark, Indiana Jones and the Last Crusade, and The Mummy Returns. Gimli is a dwarf character from J.R.R. Tolkien's Middle-ear",
+      "matched": [
+        [
+          "SUBSTRING",
+          "John Rhys-Davies"
+        ]
+      ]
+    },
+    {
+      "id": 853,
+      "question": "when was cant help falling in love released",
+      "generation": "The Elvis Presley version of \"Can't Help Falling in Love\" was released as a single on March 22, 1961.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "1961"
+        ]
+      ]
+    },
+    {
+      "id": 1111,
+      "question": "when did queen release another one bites the dust",
+      "generation": "Queen released \"Another One Bites the Dust\" on October 18, 1980, and it was the lead single from their album \"The Game,\" which was released on June 27, 1980. The song was written by Freddie Mercury.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "1980"
+        ]
+      ]
+    },
+    {
+      "id": 931,
+      "question": "who died in harry potter and the goblet of fire",
+      "generation": "Cedric Diggory died in Harry Potter and the Goblet of Fire.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Cedric"
+        ]
+      ]
+    },
+    {
+      "id": 843,
+      "question": "when was the last time eagles were in the superbowl",
+      "generation": "The last time the Eagles were in the Super Bowl was on February 4, 2018. They won the game against the New England Patriots in Super Bowl LII.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Super Bowl LII"
+        ]
+      ]
+    },
+    {
+      "id": 866,
+      "question": "the highest rank in the warrior class of japanese feudal society was the",
+      "generation": "The highest warrior rank in Japanese feudal society was the Daimyo. The Shogun was a military dictator, while the Samurai were the retainers of the Daimyo.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Samurai"
+        ]
+      ]
+    },
+    {
+      "id": 1066,
+      "question": "who was the first black male to win an oscar",
+      "generation": "Sidney Poitier was the first black male to win an Oscar, and he won the Academy Award for Best Actor in 1964 for his role in \"Lilies of the Field.\" Poitier was born in the Bahamas and became a naturalized citizen of the United States in 1976.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Sidney Poitier"
+        ]
+      ]
+    },
+    {
+      "id": 1054,
+      "question": "how many astronomers are there in the united states",
+      "generation": "As of 2021, it is difficult to provide an exact number of astronomers in the United States. However, according to the American Astronomical Society (AAS), there are approximately 7,000 members, many of whom are professional astronomers. This number does not include astronomers working in other fields, such as education, government, or industry.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "approximately 7,000"
+        ]
+      ]
+    },
+    {
+      "id": 856,
+      "question": "what is the capital city of columbia south america",
+      "generation": "Bogot\u00e1 is the capital city of Colombia, South America. It is located in the central part of the country and is the country's largest city. Bogot\u00e1 is known for its rich history, vibrant culture, and diverse population. It is also the political, economic, and cultural center of Colombia. The city was founded in 1538 by Spanish conquistador Gon",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Bogot\u00e1"
+        ]
+      ]
+    },
+    {
+      "id": 951,
+      "question": "who starred in the movie in the heat of the night",
+      "generation": "Sidney Poitier and Rod Steiger starred in the movie \"In the Heat of the Night.\"",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Sidney Poitier"
+        ],
+        [
+          "SUBSTRING",
+          "Rod Steiger"
+        ]
+      ]
+    },
+    {
+      "id": 871,
+      "question": "who sings the song i am iron man",
+      "generation": "Black Sabbath, specifically Ozzy Osbourne, sings the song \"I Am Iron Man.\" The song was released in 1980 as a part of the soundtrack for the movie \"The Incredible Hulk,\" but it is often associated with the Marvel character Iron Man due to its use in various Iron Man media.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Black Sabbath"
+        ]
+      ]
+    },
+    {
+      "id": 1131,
+      "question": "who does raven end up with in the comics",
+      "generation": "Raven does not have a consistent romantic partner in the DC Comics. However, she has had romantic relationships with Beast Boy (Gar Logan) and Trigon, her father, in some alternate universe stories.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Beast Boy"
+        ]
+      ]
+    },
+    {
+      "id": 1057,
+      "question": "who plays annie and hallie in parent trap",
+      "generation": "Lindsay Lohan plays both Annie James and Hallie Parker in the 1998 film \"The Parent Trap.\" This was Lohan's breakout role, as she portrayed both twins who were separated at birth and reunite at a summer camp. The film is a remake of the 1961 film of the same name, where Hayley",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Lindsay Lohan"
+        ]
+      ]
+    },
+    {
+      "id": 854,
+      "question": "when was the empire state building started and finished",
+      "generation": "The Empire State Building construction began on March 17, 1930, and it was completed on April 11, 1931. The building was officially opened on May 1, 1931. It is a 102-story Art Deco skyscraper located in Manhattan, New York City. The error in the previous answer",
+      "matched": [
+        [
+          "SUBSTRING",
+          "March\u00a017, 1930"
+        ],
+        [
+          "SUBSTRING",
+          "April 11, 1931"
+        ]
+      ]
+    },
+    {
+      "id": 891,
+      "question": "when did the star spangled banner became the anthem",
+      "generation": "The Star-Spangled Banner was officially adopted as the national anthem of the United States on March 3, 1931, but it was not commonly used as the national anthem until the late 19th century. Prior to this, \"Hail, Columbia\" was the official anthem. The Star-Spangled Banner was written by Francis",
+      "matched": [
+        [
+          "SUBSTRING",
+          "March 3, 1931"
+        ]
+      ]
+    },
+    {
+      "id": 942,
+      "question": "who won xfactor the year olly murs was in it",
+      "generation": "Joe McElderry won X Factor the year Olly Murs was in it (2009).",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Joe McElderry"
+        ]
+      ]
+    },
+    {
+      "id": 1134,
+      "question": "which new technique for selling newspaper contributed to the outbreak of the spanish american war",
+      "generation": "The use of yellow journalism by Joseph Pulitzer's New York World and William Randolph Hearst's New York Journal contributed to the outbreak of the Spanish-American War by sensationalizing news about Cuba's struggle for independence from Spain, exaggerating the atrocities committed by the Spanish, and promoting a pro-interventionist stance in the United States.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "yellow journalism"
+        ]
+      ]
+    },
+    {
+      "id": 1190,
+      "question": "who did the original crazy little thing called love",
+      "generation": "Freddie Mercury, the lead singer of Queen, wrote and performed the original \"Crazy Little Thing Called Love\" in 1979. It was the first song by Queen to reach number one in the UK and is a tribute to the rock and roll music of the 1950s and 1960s.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Freddie Mercury"
+        ]
+      ]
+    },
+    {
+      "id": 1189,
+      "question": "who wrote time of my life dirty dancing",
+      "generation": "The song \"Time of My Life\" from Dirty Dancing was written by John DeNicola, Donald Markowitz, and Franke Previte. The song was performed by Bill Medley and Jennifer Warnes for the movie. The original version of the song, titled \"(I've Had) The Time of My Life,\" was released by Bill Medley and Jennifer W",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Franke Previte"
+        ],
+        [
+          "SUBSTRING",
+          "Donald Markowitz"
+        ],
+        [
+          "SUBSTRING",
+          "John DeNicola"
+        ]
+      ]
+    },
+    {
+      "id": 938,
+      "question": "what do you call a judge in south africa",
+      "generation": "In South Africa, the highest judicial office is the Chief Justice, who heads the judiciary. Below the Chief Justice are the Deputy Chief Justice and the judges of the Constitutional Court. The Supreme Court of Appeal has President and Deputy President, and the High Court has a President and Deputy President for each province. The lowest court is the Magistrate's Court, presided over",
+      "matched": [
+        [
+          "SUBSTRING",
+          "judges"
+        ]
+      ]
+    },
+    {
+      "id": 847,
+      "question": "which is the most populous country in africa",
+      "generation": "Nigeria is the most populous country in Africa. As of 2021, its population is approximately 206 million. Egypt, the second most populous country, has a population of around 103 million.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "Nigeria"
+        ]
+      ]
+    },
+    {
+      "id": 894,
+      "question": "what is the biggest nfl football stadium in the us",
+      "generation": "The biggest NFL football stadium in the US is AT&T Stadium, located in Arlington, Texas. It has a seating capacity of 80,000 spectators. The stadium is home to the Dallas Cowboys.",
+      "matched": [
+        [
+          "SUBSTRING",
+          "AT&T Stadium"
+        ]
+      ]
+    }
+  ]
+}

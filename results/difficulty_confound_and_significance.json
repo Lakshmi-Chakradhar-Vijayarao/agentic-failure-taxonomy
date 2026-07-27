@@ -1,0 +1,80 @@
+{
+  "qwen": {
+    "permutation_fix": {
+      "observed_auroc": 0.6169483578541147,
+      "fold_std": 0.03214369510806115,
+      "fold_sd_above_chance": 3.638298504915381,
+      "mann_whitney_test": {
+        "auroc_from_oof": 0.6149946629999785,
+        "n_splits": 5,
+        "mannwhitney_u": 799712.0,
+        "p_value": 5.269136866519107e-20
+      }
+    },
+    "step1_correct_subset": {
+      "n_subset": 726,
+      "n_total": 2500,
+      "wrong_s3_rate_in_subset": 0.10192837465564739,
+      "auroc": 0.5819785812152224,
+      "std": 0.058043710213594786,
+      "n_splits": 5,
+      "mann_whitney_test": {
+        "auroc_from_oof": 0.5800654949427956,
+        "n_splits": 5,
+        "mannwhitney_u": 27987.0,
+        "p_value": 0.011935865929188568
+      }
+    },
+    "cross_source_transfer": {
+      "train_nq_open": {
+        "n_train": 1683,
+        "n_test": 817,
+        "transfer_auroc": 0.544779196594839
+      },
+      "train_truthfulqa": {
+        "n_train": 817,
+        "n_test": 1683,
+        "transfer_auroc": 0.5357294358791551
+      }
+    }
+  },
+  "mistral": {
+    "permutation_fix": {
+      "observed_auroc": 0.5659847262908673,
+      "fold_std": 0.028248659044283152,
+      "fold_sd_above_chance": 2.335853400596054,
+      "mann_whitney_test": {
+        "auroc_from_oof": 0.5644356006798411,
+        "n_splits": 5,
+        "mannwhitney_u": 202248.0,
+        "p_value": 5.7768030937843473e-05
+      }
+    },
+    "step1_correct_subset": {
+      "n_subset": 534,
+      "n_total": 1200,
+      "wrong_s3_rate_in_subset": 0.08052434456928839,
+      "auroc": 0.4893475572047,
+      "std": 0.06396884816053458,
+      "n_splits": 5,
+      "mann_whitney_test": {
+        "auroc_from_oof": 0.4762468621228627,
+        "n_splits": 5,
+        "mannwhitney_u": 10055.0,
+        "p_value": 0.697568193249195
+      }
+    },
+    "cross_source_transfer": {
+      "train_nq_open": {
+        "n_train": 383,
+        "n_test": 817,
+        "transfer_auroc": 0.46879951980792317
+      },
+      "train_truthfulqa": {
+        "n_train": 817,
+        "n_test": 383,
+        "transfer_auroc": 0.5113107119095143
+      }
+    }
+  }
+}
