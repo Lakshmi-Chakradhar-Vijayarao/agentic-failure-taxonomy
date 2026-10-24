@@ -1,3 +1,7 @@
+> **Note (October 2026).** This is an earlier version of the work ("Cascade Is Real But Overstated"). The current version, *Self-Refinement Failure in Multi-Step LLM Pipelines: A Re-audit with Measured Difficulty*, is in revision. It adds a pre-registered test showing that measured question difficulty alone predicts failure (AUROC 0.96–0.97 on NQ-open), with no detectable added information from the hidden-state probe.
+
+---
+
 # Agentic Failure Taxonomy
 
 Code, cached results, and paper source for "Cascade Is Real But Overstated — A
